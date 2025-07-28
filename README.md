@@ -24,10 +24,7 @@ Este proyecto implementa un pipeline **ETL (Extract, Transform, Load)** en **Dat
    - Limpieza de valores nulos.  
    - Filtrado de vuelos inválidos.  
    - Categorización de retrasos:
-     - `On time`
-     - `Slight delay`
-     - `Moderate delay`
-     - `Severe delay`
+
 
 3. **Load**  
    - Almacenamiento de resultados en formato **Parquet** en Databricks FileStore.  
@@ -35,11 +32,11 @@ Este proyecto implementa un pipeline **ETL (Extract, Transform, Load)** en **Dat
 ---
 
 ## 📊 Resultados y Visualizaciones
-<img width="791" height="440" alt="image" src="https://github.com/user-attachments/assets/3920b711-7785-4d27-87a9-6f2b5d61392e" />
 
 ### Distribución de vuelos por mes
 
-![Distribución de vuelos](vuelos_por_mes.png)
+<img width="791" height="440" alt="image" src="https://github.com/user-attachments/assets/3920b711-7785-4d27-87a9-6f2b5d61392e" />
+
 
 ### Top 10 aeropuertos con mayor retraso promedio
 ```python

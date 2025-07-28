@@ -1,5 +1,4 @@
-# ETL-y-An-lisis-de-Retrasos-de-Vuelos-con-PySpark-en-Databricks
-Diseñé y documenté un pipeline ETL en Databricks utilizando PySpark. Incluye limpieza de datos, enriquecimiento de información, análisis exploratorio, visualización de resultados y carga final en formato Parquet.
+
 # ✈️ Análisis de Retrasos de Vuelos con PySpark en Databricks
 
 Este proyecto implementa un pipeline **ETL (Extract, Transform, Load)** en **Databricks** utilizando **PySpark** para analizar retrasos de vuelos en EE.UU. El objetivo es demostrar habilidades prácticas en procesamiento de datos distribuidos, análisis exploratorio y visualización de resultados, presentando un caso realista para un portafolio de **Data Engineer** o **Data Scientist**.
@@ -36,6 +35,7 @@ Este proyecto implementa un pipeline **ETL (Extract, Transform, Load)** en **Dat
 ---
 
 ## 📊 Resultados y Visualizaciones
+<img width="791" height="440" alt="image" src="https://github.com/user-attachments/assets/3920b711-7785-4d27-87a9-6f2b5d61392e" />
 
 ### Distribución de vuelos por mes
 
